@@ -1,0 +1,7 @@
+{
+  "name": "mega-player",
+  "version": "1.0.0",
+  "dependencies": {
+    "megajs": "^1.3.6"
+  }
+}
